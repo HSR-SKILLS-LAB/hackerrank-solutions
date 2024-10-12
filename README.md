@@ -21,11 +21,10 @@ Feel free to browse the code files and choose the language that suits your prefe
 If you have any questions or suggestions regarding this repository, feel free to reach out to me via:
 
 - Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
+- LinkedIn: https://in.linkedin.com/company/hsrskillslab/
 - Facebook: https://www.facebook.com/hsrskillslab/
 - Instagram: https://www.instagram.com/hsrskillslab/
 - Youtube: https://www.youtube.com/@hsrsolutions
-- Linkedin: https://in.linkedin.com/company/hsrskillslab/
 - Community: https://chat.whatsapp.com/DMvrTK5HXEpJFUkXaHSgGE 
 
 
